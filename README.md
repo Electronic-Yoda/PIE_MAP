@@ -8,7 +8,7 @@ It depends on the ezgl graphics library https://github.com/mariobadr/ezgl, the G
 
 ##  Direction search with keyboard input. 
 - The entirety of the direction UI panel, including the searchbar and dropdown lists, are rendered directly on canvas for a maximum visual experience, rather than relying on GTK widgets.
-- ![directionSearchDemo](https://user-images.githubusercontent.com/83682911/131556822-f00dc2c3-176e-4af3-baab-fcf0858ea44a.gif)
+![directionSearchDemo](https://user-images.githubusercontent.com/83682911/131556822-f00dc2c3-176e-4af3-baab-fcf0858ea44a.gif)
 ![directionClickDemo](https://user-images.githubusercontent.com/83682911/131544710-124dc925-d471-421c-a030-11d368217312.gif)
 
 PIE_MAP_UI is the main user interface for PIE_MAP. The following features are avaliable in PIE_MAP_UI:
