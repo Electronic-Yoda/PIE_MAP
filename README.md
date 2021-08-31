@@ -7,11 +7,11 @@ PIE_MAP is co-developed by Raymond Yang (https://github.com/Electronic-Yoda), St
 It depends on the ezgl graphics library https://github.com/mariobadr/ezgl, the GTK library, and data in OpenStreetMap. 
 
 ##  Direction search with keyboard input. 
-- Rather than relying on GTK widgets, the entirety of the direction UI panel, including the searchbar and dropdown lists, are rendered directly on canvas for a maximum visual experience
+- Rather than relying on GTK widgets, the entirety of the direction UI panel, including the searchbar and dropdown lists, are rendered directly on canvas for a maximum visual experience.
 ![directionSearchDemo](https://user-images.githubusercontent.com/83682911/131556822-f00dc2c3-176e-4af3-baab-fcf0858ea44a.gif)
 
 ## Direction search by clicking on map
-- Seamlessly switch from keyboard input to map-clicking if necessary. There is great user flexibility
+- Seamlessly switch from keyboard input to map-clicking if necessary. There is great user flexibility.
 ![directionClickDemo](https://user-images.githubusercontent.com/83682911/131544710-124dc925-d471-421c-a030-11d368217312.gif)
 
 ## Change to maps around the world
