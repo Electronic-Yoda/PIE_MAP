@@ -22,7 +22,7 @@ It depends on the ezgl graphics library https://github.com/mariobadr/ezgl, the G
 - Search for intersections and points of interests, and PIE_MAP locate and will pan in on the area
 ![find](https://user-images.githubusercontent.com/83682911/131563107-28ec23ba-f44e-4045-9aa0-7b6a65dfded0.png)
 
-PIE_MAP_UI is the main user interface for PIE_MAP. The following features are avaliable in PIE_MAP_UI:
+## PIE_MAP_UI is the main user interface for PIE_MAP. The following features are avaliable in PIE_MAP_UI:
 - A Generate Buttons Algorithm
 - A Namespace for the direction-finding user interface
 - A Searchbar generator
