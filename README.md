@@ -6,6 +6,8 @@ Since some of the project are a part of the university's course work, most files
 PIE_MAP is co-developed by Raymond Yang (https://github.com/Electronic-Yoda), Stephen Wang (https://github.com/Stephenwang3801), and David Tran (https://github.com/davidtran001). 
 It depends on the ezgl graphics library https://github.com/mariobadr/ezgl, the GTK library, and data in OpenStreetMap. 
 
+![directionClickDemo](https://user-images.githubusercontent.com/83682911/131544710-124dc925-d471-421c-a030-11d368217312.gif)
+
 PIE_MAP_UI is the main user interface for PIE_MAP. The following features are avaliable in PIE_MAP_UI:
 - A Generate Buttons Algorithm
 - A Namespace for the direction-finding user interface
