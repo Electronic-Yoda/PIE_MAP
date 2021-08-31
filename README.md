@@ -15,7 +15,7 @@ It depends on the ezgl graphics library https://github.com/mariobadr/ezgl, the G
 ![directionClickDemo](https://user-images.githubusercontent.com/83682911/131544710-124dc925-d471-421c-a030-11d368217312.gif)
 
 ## View to maps around the world
-- There are 19 maps to explore
+- There are 19 maps to explore across the planet
 ![changeMap](https://user-images.githubusercontent.com/83682911/131561876-fbc1ef5d-d2b2-4ec6-b2eb-f40e85ea7581.png)
 
 
