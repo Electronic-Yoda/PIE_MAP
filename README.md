@@ -10,11 +10,11 @@ It depends on the ezgl graphics library https://github.com/mariobadr/ezgl, the G
 - Rather than relying on GTK widgets, the entirety of the direction UI panel, including the searchbar and dropdown lists, are rendered directly on canvas for a maximum visual experience.
 ![directionSearchDemo](https://user-images.githubusercontent.com/83682911/131556822-f00dc2c3-176e-4af3-baab-fcf0858ea44a.gif)
 
-## Direction search by clicking on map
+## Direction search by map-clicking
 - Seamlessly switch from keyboard input to map-clicking if necessary. There is great user flexibility.
 ![directionClickDemo](https://user-images.githubusercontent.com/83682911/131544710-124dc925-d471-421c-a030-11d368217312.gif)
 
-## Change to maps around the world
+## View to maps around the world
 ![changeMap](https://user-images.githubusercontent.com/83682911/131561876-fbc1ef5d-d2b2-4ec6-b2eb-f40e85ea7581.png)
 
 
