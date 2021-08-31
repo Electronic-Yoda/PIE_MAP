@@ -16,7 +16,7 @@ It depends on the ezgl graphics library https://github.com/mariobadr/ezgl, the G
 
 ## View maps around the world
 - There are 19 maps to explore across the planet.
-![changeMap](https://user-images.githubusercontent.com/83682911/131561876-fbc1ef5d-d2b2-4ec6-b2eb-f40e85ea7581.png)
+![changeMap](https://user-images.githubusercontent.com/83682911/131564900-36bd6012-f45c-48a2-a6d4-235acb9082f6.png)
 
 ## Find Mode
 - Search for intersections and points of interests, and PIE_MAP locate and will pan in on the area
