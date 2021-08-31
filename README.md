@@ -1,5 +1,5 @@
 # PIE_MAP
-PIE_MAP is a C++ mapping application allowing users to view, search, and interact with 19 major cities around the world. Designed for tourists in mind, PIE_MAP's GUI ensures fewer clicks can do more. It's vibrant colors and theme based on WCAG Contrast Guidelines offer a great visual experience.
+PIE_MAP is a C++ mapping application allowing users to view, search, and interact with 19 major cities around the world. Designed for tourists in mind, PIE_MAP's GUI ensures fewer clicks can do more. It's vibrant colors and theme based on WCAG Contrast Guidelines allow for a great visual experience.
 
 Since some of the project are a part of the university's course work, many files in PIE_MAP are kept private on GitHub. This repository is meant to demonstrate PIE_MAP's functionality with gifs and photos. Additionally, it stores PIE_MAP's user interface and its relevant files, which are a deviation from the course and are meant to greatly expand PIE_MAP's user experience.
 
@@ -7,8 +7,11 @@ PIE_MAP is co-developed by Raymond Yang (https://github.com/Electronic-Yoda), St
 It depends on the ezgl graphics library https://github.com/mariobadr/ezgl, the GTK library, and data in OpenStreetMap. 
 
 ##  Direction search with keyboard input. 
-- The entirety of the direction UI panel, including the searchbar and dropdown lists, are rendered directly on canvas for a maximum visual experience, rather than relying on GTK widgets.
+- Rather than relying on GTK widgets, the entirety of the direction UI panel, including the searchbar and dropdown lists, are rendered directly on canvas for a maximum visual experience
 ![directionSearchDemo](https://user-images.githubusercontent.com/83682911/131556822-f00dc2c3-176e-4af3-baab-fcf0858ea44a.gif)
+
+## Direction search by clicking on map
+- seamlessly switch from keyboard input to map-clicking if necessary. There is great flexibility with how directions are found
 ![directionClickDemo](https://user-images.githubusercontent.com/83682911/131544710-124dc925-d471-421c-a030-11d368217312.gif)
 
 PIE_MAP_UI is the main user interface for PIE_MAP. The following features are avaliable in PIE_MAP_UI:
