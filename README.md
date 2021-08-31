@@ -1,5 +1,5 @@
 # PIE_MAP
-PIE_MAP is a C++ mapping application allowing users to view, search, and interact with 19 major cities around the world. Designed for tourists in mind, PIE_MAP has impressive visuals and an efficient interface where fewer clicks can do more.
+PIE_MAP is a C++ mapping application allowing users to view, search, and interact with 19 major cities around the world. Designed for tourists in mind, PIE_MAP has an efficient interface where fewer clicks can do more. Not only that, it has impressive visuals.
 
 Since some of the project are a part of the university's course work, many files in PIE_MAP are kept private on GitHub. This repository is meant to demonstrate PIE_MAP's functionality with gifs and photos. Additionally, it stores PIE_MAP's user interface and its relevant files, which are a deviation from the course and are meant to greatly expand PIE_MAP's user experience.
 
