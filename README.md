@@ -18,6 +18,9 @@ It depends on the ezgl graphics library https://github.com/mariobadr/ezgl, the G
 - There are 19 maps to explore across the planet.
 ![changeMap](https://user-images.githubusercontent.com/83682911/131561876-fbc1ef5d-d2b2-4ec6-b2eb-f40e85ea7581.png)
 
+## Find Mode
+- Search for intersections and points of interests, and PIE_MAP locate and will pan in on the area
+![find](https://user-images.githubusercontent.com/83682911/131563107-28ec23ba-f44e-4045-9aa0-7b6a65dfded0.png)
 
 PIE_MAP_UI is the main user interface for PIE_MAP. The following features are avaliable in PIE_MAP_UI:
 - A Generate Buttons Algorithm
