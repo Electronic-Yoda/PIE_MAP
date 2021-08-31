@@ -11,7 +11,7 @@ It depends on the ezgl graphics library https://github.com/mariobadr/ezgl, the G
 ![directionSearchDemo](https://user-images.githubusercontent.com/83682911/131556822-f00dc2c3-176e-4af3-baab-fcf0858ea44a.gif)
 
 ## Direction search by clicking on map
-- seamlessly switch from keyboard input to map-clicking if necessary. There is great flexibility with how directions are found
+- Seamlessly switch from keyboard input to map-clicking if necessary. There is great user flexibility
 ![directionClickDemo](https://user-images.githubusercontent.com/83682911/131544710-124dc925-d471-421c-a030-11d368217312.gif)
 
 ## Change to maps around the world
