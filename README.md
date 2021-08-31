@@ -15,7 +15,7 @@ It depends on the ezgl graphics library https://github.com/mariobadr/ezgl, the G
 ![directionClickDemo](https://user-images.githubusercontent.com/83682911/131544710-124dc925-d471-421c-a030-11d368217312.gif)
 
 ## Change to maps around the world
-![changeMap](https://user-images.githubusercontent.com/83682911/131561749-f4042faf-b657-47ba-b5de-ddeba8500302.png)
+![changeMap](https://user-images.githubusercontent.com/83682911/131561876-fbc1ef5d-d2b2-4ec6-b2eb-f40e85ea7581.png)
 
 
 PIE_MAP_UI is the main user interface for PIE_MAP. The following features are avaliable in PIE_MAP_UI:
