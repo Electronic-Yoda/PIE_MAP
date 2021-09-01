@@ -15,11 +15,11 @@ It depends on the ezgl graphics library https://github.com/mariobadr/ezgl, the G
 ![directionClickDemo](https://user-images.githubusercontent.com/83682911/131544710-124dc925-d471-421c-a030-11d368217312.gif)
 
 ## View maps around the world
-- There are 19 maps to explore across the world, ranging from Tokyo to Moscow.
+- There are nineteen maps to explore across the world, ranging from Tokyo to Moscow.
 ![changeMap](https://user-images.githubusercontent.com/83682911/131564900-36bd6012-f45c-48a2-a6d4-235acb9082f6.png)
 
 ## Find Mode
-- Search for intersections and points of interests, and PIE_MAP locate and will pan in on the area
+- Search for intersections and points of interests, and PIE_MAP locate and will pan in on the area.
 ![find](https://user-images.githubusercontent.com/83682911/131563107-28ec23ba-f44e-4045-9aa0-7b6a65dfded0.png)
 
 ## PIE_MAP_UI is the main user interface for PIE_MAP
