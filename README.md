@@ -1,3 +1,4 @@
+![wideBG](https://user-images.githubusercontent.com/83682911/131602318-140a58d3-aead-448e-a32a-3c14120a7b1b.png)
 # PIE_MAP
 PIE_MAP is a C++ mapping application allowing users to view, search, and interact with 19 major cities around the world. Designed for tourists in mind, PIE_MAP's GUI ensures fewer clicks can do more. It's vibrant colors and theme based on WCAG Contrast Guidelines allow for a great visual experience.
 
