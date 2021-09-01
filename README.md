@@ -15,7 +15,7 @@ It depends on the ezgl graphics library https://github.com/mariobadr/ezgl, the G
 ![directionClickDemo](https://user-images.githubusercontent.com/83682911/131544710-124dc925-d471-421c-a030-11d368217312.gif)
 
 ## View maps around the world
-- There are 19 maps to explore across the planet.
+- There are 19 maps to explore across the world, ranging from Tokyo to Moscow.
 ![changeMap](https://user-images.githubusercontent.com/83682911/131564900-36bd6012-f45c-48a2-a6d4-235acb9082f6.png)
 
 ## Find Mode
