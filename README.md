@@ -23,7 +23,7 @@ It depends on the ezgl graphics library https://github.com/mariobadr/ezgl, the G
 ![find](https://user-images.githubusercontent.com/83682911/131563107-28ec23ba-f44e-4045-9aa0-7b6a65dfded0.png)
 
 ## PIE_MAP_UI is the main user interface for PIE_MAP
-PIE_MAP_UI is used to render searchbars and dropdown lists of the program directly on canvas. The development of this UI became necessary when we realized the GTK library and its widgets were very limiting in terms of color selection and placement, and were unable to satisfy our goal of providing a great visual experience. 
+PIE_MAP_UI is used to render searchbars and dropdown lists of the program directly on canvas. The development of this UI became necessary when we realized the GTK library and its widgets were very limiting in terms of color selection, placement, and were unable to satisfy our goal of providing great visuals and usability. 
 
 The following features are avaliable in PIE_MAP_UI:
 - A Generate Buttons Algorithm
