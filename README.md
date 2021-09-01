@@ -21,6 +21,7 @@ It depends on the ezgl graphics library https://github.com/mariobadr/ezgl, the G
 
 ## Find Mode
 - Search for intersections and points of interests, and PIE_MAP locate and will pan in on the area.
+![changeMap2](https://user-images.githubusercontent.com/83682911/131602731-27f357d1-9057-40c8-a3b2-86fbaf95bc9b.png)
 ![find](https://user-images.githubusercontent.com/83682911/131563107-28ec23ba-f44e-4045-9aa0-7b6a65dfded0.png)
 
 ## PIE_MAP_UI is the main user interface for PIE_MAP
