@@ -2,7 +2,7 @@
 # PIE_MAP
 PIE_MAP is a C++ mapping application allowing users to view, search, and interact with 19 major cities around the world. Designed for tourists in mind, PIE_MAP offers a vibrant color and theme allowing for a great user experience.
 
-Since some of the project are a part of the university's course work, many files in PIE_MAP are kept private on GitHub. This repository is meant to demonstrate PIE_MAP's functionality with gifs and photos. Additionally, it stores PIE_MAP's user interface and its relevant files, which are a deviation from the course and are meant to greatly expand PIE_MAP's user experience.
+Since some of the project are a part of the university's course work, many files in PIE_MAP are kept private on GitHub. This repository is meant to demonstrate PIE_MAP's functionality with gifs and photos. Additionally, it stores PIE_MAP's user interface and its relevant files, which are a deviation from the course requirements and are meant to greatly expand PIE_MAP's visuals.
 
 PIE_MAP is co-developed by Raymond Yang (https://github.com/Electronic-Yoda), Stephen Wang (https://github.com/Stephenwang3801), and David Tran (https://github.com/davidtran001). 
 It depends on the ezgl graphics library https://github.com/mariobadr/ezgl, the GTK library, and data in OpenStreetMap. 
