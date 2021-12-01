@@ -31,7 +31,7 @@ It depends on the ezgl graphics library https://github.com/mariobadr/ezgl, the G
 | Search Functionality (GIF) | ![Alt Text](https://github.com/Stephenwang3801/PIE_MAP/blob/main/images/Search.gif?raw=true) |
 | Map Layout with Panel | <img src="https://github.com/Stephenwang3801/PIE_MAP/blob/main/images/Map%20Layout%20With%20Panel.png?raw=true"> |
 | Pathfinding Algorithm by using the search bar in the side panel (GIF) | <img src="https://github.com/Stephenwang3801/PIE_MAP/blob/main/images/Direction%20Algo%20Keyboard.gif?raw=true"> | 
-| Pathfinding Algorithm by clicking on the map (GIF) | <img src="https://github.com/Stephenwang3801/PIE_MAP/blob/main/images/Direction%20Algo%20Clicking.gif?raw=true"> | 
+| Pathfinding Algorithm by clicking on the map (GIF) | https://user-images.githubusercontent.com/83682911/131544710-124dc925-d471-421c-a030-11d368217312.gif | 
 | Courier Path with multiple destinations | <img src="https://github.com/Stephenwang3801/PIE_MAP/blob/main/images/Courier%20Path.png?raw=true"> | 
 | Toronto | <img src="https://github.com/Stephenwang3801/PIE_MAP/blob/main/images/Toronto.png?raw=true"> | 
 | Tokyo | <img src="https://github.com/Stephenwang3801/PIE_MAP/blob/main/images/Tokyo.png?raw=true"> | 
