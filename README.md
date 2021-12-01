@@ -34,3 +34,19 @@ The following features are avaliable in PIE_MAP_UI:
 - Data structures and functions/methods enabling program reactions to user input (mouse, keyboard)
 - Drawing major components of the UI on canvas
 
+
+# The Project
+| Description | Image |
+|-------------|-------|
+| Logo and POI Pins | <img src="https://github.com/Stephenwang3801/PIE_MAP/blob/main/images/Logo.png?raw=true" width="300" height="300"> <img src="https://github.com/Stephenwang3801/PIE_MAP/blob/main/images/Pins.png?raw=true" width="465" height="155"> |
+| Choosing screen for available cities | <img src="https://github.com/Stephenwang3801/PIE_MAP/blob/main/images/Available%20Cities.png?raw=true"> |
+| Map Design | <img src="https://github.com/Stephenwang3801/PIE_MAP/blob/main/images/Map%20Design.png?raw=true"> |
+| Search Functionality (GIF) | ![Alt Text](https://github.com/Stephenwang3801/PIE_MAP/blob/main/images/Search.gif?raw=true) |
+| Map Layout with Panel | <img src="https://github.com/Stephenwang3801/PIE_MAP/blob/main/images/Map%20Layout%20With%20Panel.png?raw=true"> |
+| Pathfinding Algorithm by using the search bar in the side panel (GIF) | <img src="https://github.com/Stephenwang3801/PIE_MAP/blob/main/images/Direction%20Algo%20Keyboard.gif?raw=true"> | 
+| Pathfinding Algorithm by clicking on the map (GIF) | <img src="https://github.com/Stephenwang3801/PIE_MAP/blob/main/images/Direction%20Algo%20Clicking.gif?raw=true"> | 
+| Courier Path with multiple destinations | <img src="https://github.com/Stephenwang3801/PIE_MAP/blob/main/images/Courier%20Path.png?raw=true"> | 
+| Toronto | <img src="https://github.com/Stephenwang3801/PIE_MAP/blob/main/images/Toronto.png?raw=true"> | 
+| Tokyo | <img src="https://github.com/Stephenwang3801/PIE_MAP/blob/main/images/Tokyo.png?raw=true"> | 
+| London | <img src="https://github.com/Stephenwang3801/PIE_MAP/blob/main/images/London.png?raw=true"> | 
+| New York | <img src="https://github.com/Stephenwang3801/PIE_MAP/blob/main/images/New%20York.png?raw=true"> | 
